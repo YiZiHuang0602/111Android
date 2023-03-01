@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">Hello World!</string>
+    <string name="btnText">確定</string>
+</resources>
